@@ -1,4 +1,8 @@
 pragma solidity ^0.4.25;
+//use time as a determinant - not sure what the frequency would be.  Maybe weekly, maybe based on lunar, maybe annual.. 
+//It's a one time honor.  Once a person has become GG, they forever have the designation.  This allows more space for others.
+//Not sure what to do about identity
+//Needs to stay simple
 
 contract GoldenGoat {
 
